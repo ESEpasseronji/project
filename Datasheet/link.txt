@@ -1,0 +1,17 @@
+USB connector:
+https://www.digikey.it/product-detail/it/amphenol-icc-fci/10118193-0001LF/609-4616-6-ND/2785381
+
+Battery connector:
+https://www.digikey.it/product-detail/it/jst-sales-america-inc/B2B-PH-K-S-LF-SN/455-1704-ND/926611
+
+Battery:
+https://cdn-shop.adafruit.com/product-files/1317/C1515_-_Li-Polymer_402025_150mAh_3.7V_with_PCM.pdf
+
+Charge controller:
+https://www.maximintegrated.com/en/products/power/battery-management/MAX1555.html
+
+Switch:
+https://www.digikey.it/product-detail/it/c-k/JS102011SAQN/401-1999-2-ND/1640095
+
+Voltage controller:
+https://www.maximintegrated.com/en/products/power/charge-pumps/MAX1759.html
