@@ -22,7 +22,7 @@ if exist %%~ng.step (
 ))
 @echo exit >> builder.scr.txt
 @echo Creating footprints..
-START /W "" "allegro.exe" -s builder.scr.txt
+START /W "" "C:\Cadence\SPB_17.2\tools\bin\allegro.exe" -s builder.scr.txt
 
 exit
 

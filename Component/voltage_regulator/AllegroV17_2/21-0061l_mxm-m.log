@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 21-0061L_MXM-M.dra                            )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Dec 07 21:49:10 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/CO_sensor/Component/voltage_regulator/AllegroV17_2
+    Name      = 21-0061l_mxm-m.psm
+    User      = pmich
+    Machine   = DESKTOP-RUVUTMF
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
