@@ -1,0 +1,47 @@
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Mon Dec 07 21:45:33 2020
+\t (00:00:05)         Host=DESKTOP-RUVUTMF User=pmich Pid=4744 CPUs=4
+\t (00:00:05) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\CO_sensor\Component\ul_MAX1555EZK\AllegroV17_2\21-0113D_MXM.dra
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: C:/CO_sensor/Component/ul_MAX1555EZK/AllegroV17_2/21-0113D_MXM.dra
+\i (00:00:08) trapsize 2685
+\i (00:00:08) trapsize 2781
+\i (00:00:08) trapsize 2781
+\i (00:00:08) generaledit 
+\i (00:00:12) drag_start grid 271.875 12.225
+\i (00:00:13) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:15) drag_stop 185.106 -100.129
+\i (00:00:25) QtSignal CVPLayerGrid CVPConductorsLabel clicked false
+\i (00:00:25) QtSignal CVPLayerGrid CVPConductorsLabel clicked true
+\i (00:00:28) QtSignal CVPLayerGrid CVPPlanesLabel clicked false
+\i (00:00:28) QtSignal CVPLayerGrid CVPPlanesLabel clicked true
+\i (00:00:29) QtSignal CVPLayerGrid CVPPlanesEtch clicked false
+\i (00:00:36) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:00:36) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:00:37) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:00:38) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked false
+\i (00:00:40) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:00:41) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:00:41) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:00:42) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:00:43) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:00:44) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:00:46) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:00:49) QtSignal CVPLayerGrid CVPAllAll_Layers clicked false
+\i (00:00:49) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked true
+\i (00:00:50) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked false
+\i (00:00:53) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:00:54) QtSignal CVPLayerGrid CVPAllAll_Layers clicked false
+\i (00:00:55) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:00:56) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:00:56) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:00:57) QtSignal CVPLayerGrid CVPConductorsDrc clicked true
+\i (00:00:57) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:00:58) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:00:59) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:01:07) exit 
+\t (00:01:08)     Journal end - Mon Dec 07 21:46:36 2020

@@ -1,0 +1,36 @@
+skill load "C:/CO_sensor/Component/voltage_regulator/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/CO_sensor/Component/voltage_regulator/AllegroV17_2" 
+skill LB_createFootprint "C:/CO_sensor/Component/voltage_regulator/AllegroV17_2/21-0061L_MXM-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 21-0061L_MXM-L.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/CO_sensor/Component/voltage_regulator/AllegroV17_2/21-0061L_MXM-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 21-0061L_MXM-M.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/CO_sensor/Component/voltage_regulator/AllegroV17_2/21-0061L_MXM.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 21-0061L_MXM.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 
