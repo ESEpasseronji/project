@@ -1,0 +1,61 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Dec 08 15:50:34 2020
+\t (00:00:04)         Host=DESKTOP-RUVUTMF User=pmich Pid=1088 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\CO_sensor\Component\usb_led1\Green_led.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/CO_sensor/Component/usb_led1/Green_led.dra
+\t (00:00:07) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:00:07) trapsize 272
+\i (00:00:07) trapsize 282
+\t (00:00:07) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:00:07) trapsize 282
+\i (00:00:07) generaledit 
+\i (00:00:11) drag_start grid -1.2442 0.1101
+\i (00:00:11) move 
+\t (00:00:11) last pick:  -1.4350 -0.2450
+\t (00:00:11) Pick new location for the element(s).
+\i (00:00:12) drag_stop grid -1.4587 -0.2116
+\i (00:00:12) generaledit 
+\i (00:00:15) save_as 
+\i (00:00:19) fillin "Green_led.dra"
+\t (00:00:20) Symbol 'green_led.psm' created.
+\i (00:00:20) generaledit 
+\i (00:00:24) dbdoctor 
+\i (00:00:25) setwindow form.dbdoctor_allegro
+\i (00:00:25) FORM dbdoctor_allegro drc YES 
+\i (00:00:26) FORM dbdoctor_allegro shapes YES 
+\i (00:00:27) FORM dbdoctor_allegro execute  
+\t (00:00:27) Dbdoctor in progress - wait...
+\t (00:00:27) Checking db records
+\t (00:00:27)     checking for orphans...
+\t (00:00:27)     Checked 100 percent
+\t (00:00:27) Regenerating DRC
+\t (00:00:27)   Original DRC errors: 0
+\t (00:00:27) Performing DRC...
+\t (00:00:27) No DRC errors detected.
+\t (00:00:27)   Updated DRC errors:  0
+\t (00:00:27) Done dbdoctor.
+\t (00:00:27) Dbdoctor completed.
+\i (00:00:29) FORM dbdoctor_allegro execute  
+\t (00:00:29) Dbdoctor in progress - wait...
+\t (00:00:29) Checking db records
+\t (00:00:29)     checking for orphans...
+\t (00:00:29)     Checked 100 percent
+\t (00:00:29) Regenerating DRC
+\t (00:00:29)   Original DRC errors: 0
+\t (00:00:29) Performing DRC...
+\t (00:00:29) No DRC errors detected.
+\t (00:00:29)   Updated DRC errors:  0
+\t (00:00:29) Done dbdoctor.
+\t (00:00:29) Dbdoctor completed.
+\i (00:00:30) FORM dbdoctor_allegro close  
+\i (00:00:30) setwindow pcb
+\i (00:00:30) generaledit 
+\i (00:00:31) exit 
+\e (00:00:31) Do you want to save the changes you made to C:/CO_sensor/Component/usb_led1/Green_led.dra?
+\i (00:00:32) fillin yes 
+\t (00:00:33) Symbol 'green_led.psm' created.
+   (00:00:33) Loading signal.cxt 
+\t (00:00:33)     Journal end - Tue Dec 08 15:51:03 2020
