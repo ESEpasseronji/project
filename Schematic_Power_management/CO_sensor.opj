@@ -1,0 +1,143 @@
+(ExpressProject "CO_sensor"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\cadence\spb_17.2\tools\capture\library\pspice\analog.olb"
+        (Type "Schematic Library"))
+      (File "..\cadence\spb_17.2\tools\capture\library\pspice\source.olb"
+        (Type "Schematic Library"))
+      (File "..\cadence\spb_17.2\tools\capture\library\pspice\sourcstm.olb"
+        (Type "Schematic Library"))
+      (File "..\cadence\spb_17.2\tools\capture\library\pspice\special.olb"
+        (Type "Schematic Library"))
+      (File ".\co_library.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\co_sensor.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (F5F1
+      (FullPartName "F5F1.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MAX1555EZK
+      (FullPartName "MAX1555EZK.Normal")
+      (LibraryName
+         "C:\CO_SENSOR\COMPONENT\UL_MAX1555EZK\ORCADCAPTUREXML\2020-12-07_20-36-55.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CQX15/TO
+      (FullPartName "CQX15/TO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (MAX1759
+      (FullPartName "MAX1759.Normal")
+      (LibraryName "C:\CO_SENSOR\CO_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (B2B-PH-K-SLFSN
+      (FullPartName "B2B-PH-K-SLFSN.Normal")
+      (LibraryName
+         "C:\CO_SENSOR\COMPONENT\BATTERY_CONNECTOR\B2B-PH-K-SLFSN.OLB")
+      (DeviceIndex "0"))
+    (JS102011SAQN
+      (FullPartName "JS102011SAQN.Normal")
+      (LibraryName "C:\CO_SENSOR\COMPONENT\SWITCH\JS102011SAQN.OLB")
+      (DeviceIndex "0"))
+    (10118193-0001LF
+      (FullPartName "10118193-0001LF.Normal")
+      (LibraryName "C:\CO_SENSOR\COMPONENT\USB_CONNECTOR\10118193-0001LF.OLB")
+      (DeviceIndex "0"))
+    ("SW TACT-SPST-2/SM"
+      (FullPartName "SW TACT-SPST-2/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-2"
+      (FullPartName "SW DIP-2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SENS59025-SPST
+      (FullPartName "SENS59025-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (S_ST
+      (FullPartName "S_ST.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (JST_2mm_2pin
+      (FullPartName "JST_2mm_2pin.Normal")
+      (LibraryName "C:\CO_SENSOR\CO_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (JST_2pins_2mm
+      (FullPartName "JST_2pins_2mm.Normal")
+      (LibraryName "C:\CO_SENSOR\CO_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (MAX1555
+      (FullPartName "MAX1555.Normal")
+      (LibraryName "C:\CO_SENSOR\CO_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (JST_2pin_2mm
+      (FullPartName "JST_2pin_2mm.Normal")
+      (LibraryName "C:\CO_SENSOR\CO_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "pmich")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\co_sensor.dsn")
+      (Path "Design Resources" ".\co_sensor.dsn" "SCHEMATIC")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\co_library.olb")
+      (Select "Design Resources" "Library" ".\co_library.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 212"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1238 52 303")
+        (Scroll "0 35")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path "C:\CO_SENSOR\CO_SENSOR.DSN")
+      (Schematic "SCHEMATIC")
+      (Page "Schematic_power_management")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_17.2\tools\capture\library\pspice"))
