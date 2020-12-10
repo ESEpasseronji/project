@@ -1,0 +1,19 @@
+CO_sensor  Revised: Wednesday, December 09, 2020
+2020_12_09          Revision: 1.0
+
+
+
+
+
+
+
+Bill Of Materials       December 9,2020      14:47:10	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10n
+2	1	C2	1u
+3	2	R1,R2	200
+4	1	U1	3SP CO 1000 package 110-109
+5	1	U2	LMP91002SD

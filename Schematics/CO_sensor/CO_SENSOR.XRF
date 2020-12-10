@@ -1,0 +1,22 @@
+CO_sensor  Revised: Wednesday, December 09, 2020
+2020_12_09          Revision: 1.0
+
+
+
+
+
+
+
+Design Name:  C:\TEMP\CO_SENSOR\CO_SENSOR.DSN
+
+Cross Reference         December 9,2020      14:46:53	Page1
+
+Item	Part	Reference	SchematicName	Sheet	Library
+____________________________________________________________________________
+
+1	1u	C2	/CO_sensor	1	C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB	
+2	3SP CO 1000 package 110-109	U1	/CO_sensor	1	C:\ORCAD_PERSONAL_LIBRARY\SENSORS.OLB	
+3	10n	C1	/CO_sensor	1	C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB	
+4	200	R1	/CO_sensor	1	C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB	
+5	200	R2	/CO_sensor	1	C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB	
+6	LMP91002SD	U2	/CO_sensor	1	C:\ORCAD_PERSONAL_LIBRARY\SENSORS.OLB	
