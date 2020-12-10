@@ -1,9 +1,0 @@
-{ Using PSTWRITER 17.2.0 d001Dec-09-2020 at 14:57:54 }
-
-#1 ERROR(ORCAP-36071): Illegal character "Forward Slash(/)" found in "PCB Footprint" property for component instance R2: CO_sensor, CO_sensor (2.40, 4.30) .
-#2 ERROR(ORCAP-36071): Illegal character "Forward Slash(/)" found in "PCB Footprint" property for component instance R1: CO_sensor, CO_sensor (2.40, 4.10) .
-#3 ERROR(ORCAP-36071): Illegal character "Forward Slash(/)" found in "PCB Footprint" property for component instance C1: CO_sensor, CO_sensor (2.80, 2.80) .
-#4 ERROR(ORCAP-36071): Illegal character "Forward Slash(/)" found in "PCB Footprint" property for component instance C2: CO_sensor, CO_sensor (2.30, 2.80) .
-#5 INFO(ORCAP-36107):  PCB Editor does not support Dots(.), Forward Slash(/) and White space in footprint names. The supported characters include Alphabets, Numerics, Underscore(_) and Hyphen(-).
-
-#6 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.
