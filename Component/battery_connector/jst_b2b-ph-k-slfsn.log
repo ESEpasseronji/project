@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : JST_B2B-PH-K-SLFSN.dra                        )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 08 16:00:46 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/CO_sensor/Component/battery_connector
+    Name      = jst_b2b-ph-k-slfsn.psm
+    User      = pmich
+    Machine   = DESKTOP-RUVUTMF
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
