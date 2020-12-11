@@ -114,15 +114,21 @@
       (FullPartName "CON2.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "pmich")
+  (MPSSessionName "Emanuele Semino")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\co_sensor.dsn")
-      (Path "Design Resources" ".\co_sensor.dsn" "SCHEMATIC")
+      (Path "Design Resources"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_sensor.dsn")
+      (Path "Design Resources"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_sensor.dsn"
+         "SCHEMATIC")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\co_library.olb")
-      (Select "Design Resources" "Library" ".\co_library.olb"))
+      (Path "Design Resources" "Library"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_library.olb")
+      (Select "Design Resources"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_sensor.dsn"
+         "SCHEMATIC" "Schematic_power_management"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -132,11 +138,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1238 52 303")
-        (Scroll "0 35")
-        (Zoom "122")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 347")
+        (Scroll "-156 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\CO_SENSOR\CO_SENSOR.DSN")
+      (Path
+         "C:\USERS\EMANUELE SEMINO\DOCUMENTS\GITHUB\PROJECT\SCHEMATIC_POWER_MANAGEMENT\CO_SENSOR.DSN")
       (Schematic "SCHEMATIC")
       (Page "Schematic_power_management")))
   (LastUsedLibraryBrowseDirectory

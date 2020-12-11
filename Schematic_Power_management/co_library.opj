@@ -10,12 +10,15 @@
     (NoModify))
   (Folder "Outputs")
   (Folder "Referenced Projects")
-  (MPSSessionName "pmich")
+  (MPSSessionName "Emanuele Semino")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\co_library.olb")
-      (Select "Design Resources" ".\co_library.olb"))
+      (Path "Design Resources"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_library.olb")
+      (Select "Design Resources"
+         "C:\Users\Emanuele Semino\Documents\GitHub\project\Schematic_Power_management\co_library.olb"
+         "JST_2mm_2pin"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

@@ -2,7 +2,7 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\2020-12-07_20-36-55.olb"
+    (File ".\js102011saqn.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -12,15 +12,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\Emanuele Semino\Documents\GitHub\project\Component\charge_controller\2020-12-07_20-36-55.olb")
-      (Select "Design Resources"
-         "C:\Users\Emanuele Semino\Documents\GitHub\project\Component\charge_controller\2020-12-07_20-36-55.olb"
-         "MAX1555EZK"))
+      (Path "Design Resources" ".\js102011saqn.olb")
+      (Select "Design Resources" ".\js102011saqn.olb" "JS102011SAQN"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 212"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 282"))
       (Tab 0)))
   (MPSSessionName "Emanuele Semino"))

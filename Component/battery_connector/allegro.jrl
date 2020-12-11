@@ -1,0 +1,87 @@
+\t (00:00:09) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Fri Dec 11 18:28:04 2020
+\t (00:00:09)         Host=DESKTOP-FJF73RD User=Emanuele Semino Pid=504 CPUs=8
+\t (00:00:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe C:\Users\Emanuele Semino\Documents\GitHub\project\Component\battery_connector\JST_B2B-PH-K-SLFSN.dra
+\t (00:00:09) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Design opened: C:/Users/Emanuele Semino/Documents/GitHub/project/Component/battery_connector/JST_B2B-PH-K-SLFSN.dra
+\i (00:00:12) trapsize 926
+\i (00:00:12) trapsize 949
+\i (00:00:12) trapsize 949
+\i (00:00:12) trapsize 839
+\i (00:00:12) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -0.3191 2.1289
+\i (00:00:13) trapsize 1678
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -0.3190 2.1290
+\i (00:00:13) trapsize 3467
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12.3028 11.2760
+\i (00:00:13) trapsize 3467
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12.3028 11.2760
+\i (00:00:13) trapsize 3467
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12.3028 11.2760
+\i (00:00:13) trapsize 3467
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 12.3028 11.2760
+\i (00:00:13) trapsize 3467
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 12.3028 11.2760
+\i (00:00:14) trapsize 1734
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1.2892 11.2760
+\i (00:00:14) trapsize 867
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1.2892 11.2760
+\i (00:00:14) trapsize 433
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1.2893 11.2760
+\i (00:00:14) trapsize 217
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1.2893 11.2760
+\i (00:00:14) trapsize 108
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1.8896 11.0789
+\i (00:00:14) trapsize 217
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1.8896 11.0788
+\i (00:00:14) trapsize 433
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -0.3036 8.7124
+\i (00:00:14) trapsize 867
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -0.4944 9.5099
+\i (00:00:14) trapsize 1734
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -0.8064 10.7928
+\i (00:00:14) trapsize 3467
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -4.4795 -3.4258
+\i (00:00:15) trapsize 1734
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -7.1019 -3.4258
+\i (00:00:15) trapsize 867
+\i (00:00:16) exit 
+\t (00:00:17)     Journal end - Fri Dec 11 18:28:11 2020
